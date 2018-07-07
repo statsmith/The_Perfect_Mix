@@ -1,0 +1,16 @@
+
+/* Constant Standard Card Height   */
+.card.z-depth-4 {
+        height: 40vw;
+        object-fit: cover;
+}
+
+
+
+/* Display Plots Side By Side */
+#div_results_bar_plot, #div_results_optimal_plot {
+        
+  display:inline-block;
+  width: 45%;
+        
+}
